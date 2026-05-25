@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": "2026-05-25T13:04:21.390Z",
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z",
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh",
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1600,
+    "brandName": "Licensed Concrete Tuna",
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1600,
+    "updatedAt": "2026-05-25T13:04:21.390Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556822",
+    "brandName": "Stoltenberg Inc",
+    "yearFounded": 2020,
+    "headquarters": "East Parishaven, Saint Martin",
+    "numberOfLocations": 1,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.721Z",
+    "updatedAt": "2026-05-25T13:04:21.721Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556823",
+    "brandName": "Macejkovic Group",
+    "yearFounded": 1600,
+    "headquarters": "Fort Yolandafort",
+    "numberOfLocations": 24,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.722Z",
+    "updatedAt": "2026-05-25T13:04:21.722Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556824",
+    "brandName": "Wuckert - Brakus",
+    "yearFounded": 1957,
+    "headquarters": "Murlburgh, Austria",
+    "numberOfLocations": 19293,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556825",
+    "brandName": "Boyle-Ondricka LLC",
+    "yearFounded": 2026,
+    "headquarters": "Shanahanview",
+    "numberOfLocations": 4,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556826",
+    "brandName": "Lockman, Purdy and Ledner",
+    "yearFounded": 1810,
+    "headquarters": "Kubcester",
+    "numberOfLocations": 1,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556827",
+    "brandName": "squiggly, heartache & Co.",
+    "yearFounded": 1738,
+    "headquarters": "Roweland",
+    "numberOfLocations": 39,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556828",
+    "brandName": "Harber LLC",
+    "yearFounded": 1976,
+    "headquarters": "9012 Manor Road, East Claudestead, France",
+    "numberOfLocations": 494,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de556829",
+    "brandName": "Mohr, Fisher and Wilkinson",
+    "yearFounded": 1862,
+    "headquarters": "Littleton",
+    "numberOfLocations": 14390,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de55682a",
+    "brandName": "22-obligation",
+    "yearFounded": 1960,
+    "headquarters": "Keelingborough, Oregon",
+    "numberOfLocations": 2912,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.723Z",
+    "updatedAt": "2026-05-25T13:04:21.723Z"
+  },
+  {
+    "_id": "6a1448d5b32e6f41de55682b",
+    "brandName": "Kuvalis Group",
+    "yearFounded": 2024,
+    "headquarters": "Fort Marjolaineville",
+    "numberOfLocations": 15,
+    "__v": 0,
+    "createdAt": "2026-05-25T13:04:21.724Z",
+    "updatedAt": "2026-05-25T13:04:21.724Z"
+  }
+]

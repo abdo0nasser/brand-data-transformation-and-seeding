@@ -44,7 +44,7 @@ async function importRawData() {
 }
 
 async function exportData() {
-    const EXPORT_PATH = path.resolve(__dirname, "../brands_export.json");
+    const EXPORT_PATH = path.resolve(__dirname, "../brands.json");
 
     const data = await Brand.find({});
     try {
